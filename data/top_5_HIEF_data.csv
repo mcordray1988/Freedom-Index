@@ -1,0 +1,331 @@
+﻿Country,Year,EFindex
+Ireland,1945,0.051
+Ireland,1946,0.052
+Ireland,1947,0.053
+Ireland,1948,0.054
+Ireland,1949,0.055
+Ireland,1950,0.056
+Ireland,1951,0.057
+Ireland,1952,0.058
+Ireland,1953,0.059
+Ireland,1954,0.06
+Ireland,1955,0.061
+Ireland,1956,0.063
+Ireland,1957,0.064
+Ireland,1958,0.065
+Ireland,1959,0.066
+Ireland,1960,0.068
+Ireland,1961,0.069
+Ireland,1962,0.07
+Ireland,1963,0.072
+Ireland,1964,0.073
+Ireland,1965,0.074
+Ireland,1966,0.076
+Ireland,1967,0.077
+Ireland,1968,0.079
+Ireland,1969,0.08
+Ireland,1970,0.082
+Ireland,1971,0.083
+Ireland,1972,0.085
+Ireland,1973,0.086
+Ireland,1974,0.088
+Ireland,1975,0.089
+Ireland,1976,0.091
+Ireland,1977,0.093
+Ireland,1978,0.094
+Ireland,1979,0.096
+Ireland,1980,0.098
+Ireland,1981,0.1
+Ireland,1982,0.102
+Ireland,1983,0.103
+Ireland,1984,0.105
+Ireland,1985,0.107
+Ireland,1986,0.109
+Ireland,1987,0.111
+Ireland,1988,0.113
+Ireland,1989,0.115
+Ireland,1990,0.117
+Ireland,1991,0.119
+Ireland,1992,0.122
+Ireland,1993,0.124
+Ireland,1994,0.126
+Ireland,1995,0.128
+Ireland,1996,0.13
+Ireland,1997,0.133
+Ireland,1998,0.135
+Ireland,1999,0.137
+Ireland,2000,0.14
+Ireland,2001,0.142
+Ireland,2002,0.145
+Ireland,2003,0.147
+Ireland,2004,0.15
+Ireland,2005,0.152
+Ireland,2006,0.155
+Ireland,2007,0.157
+Ireland,2008,0.16
+Ireland,2009,0.163
+Ireland,2010,0.165
+Ireland,2011,0.168
+Ireland,2012,0.171
+Ireland,2013,0.174
+Switzerland,1945,0.196
+Switzerland,1946,0.198
+Switzerland,1947,0.2
+Switzerland,1948,0.203
+Switzerland,1949,0.205
+Switzerland,1950,0.207
+Switzerland,1951,0.209
+Switzerland,1952,0.211
+Switzerland,1953,0.214
+Switzerland,1954,0.216
+Switzerland,1955,0.218
+Switzerland,1956,0.22
+Switzerland,1957,0.223
+Switzerland,1958,0.225
+Switzerland,1959,0.227
+Switzerland,1960,0.23
+Switzerland,1961,0.232
+Switzerland,1962,0.234
+Switzerland,1963,0.237
+Switzerland,1964,0.239
+Switzerland,1965,0.241
+Switzerland,1966,0.244
+Switzerland,1967,0.246
+Switzerland,1968,0.248
+Switzerland,1969,0.251
+Switzerland,1970,0.253
+Switzerland,1971,0.255
+Switzerland,1972,0.258
+Switzerland,1973,0.26
+Switzerland,1974,0.263
+Switzerland,1975,0.265
+Switzerland,1976,0.267
+Switzerland,1977,0.27
+Switzerland,1978,0.272
+Switzerland,1979,0.275
+Switzerland,1980,0.277
+Switzerland,1981,0.28
+Switzerland,1982,0.282
+Switzerland,1983,0.285
+Switzerland,1984,0.287
+Switzerland,1985,0.29
+Switzerland,1986,0.292
+Switzerland,1987,0.295
+Switzerland,1988,0.298
+Switzerland,1989,0.3
+Switzerland,1990,0.303
+Switzerland,1991,0.305
+Switzerland,1992,0.308
+Switzerland,1993,0.311
+Switzerland,1994,0.313
+Switzerland,1995,0.316
+Switzerland,1996,0.319
+Switzerland,1997,0.321
+Switzerland,1998,0.324
+Switzerland,1999,0.327
+Switzerland,2000,0.33
+Switzerland,2001,0.332
+Switzerland,2002,0.335
+Switzerland,2003,0.338
+Switzerland,2004,0.341
+Switzerland,2005,0.344
+Switzerland,2006,0.347
+Switzerland,2007,0.349
+Switzerland,2008,0.352
+Switzerland,2009,0.355
+Switzerland,2010,0.358
+Switzerland,2011,0.361
+Switzerland,2012,0.364
+Switzerland,2013,0.367
+Singapore,1960,0.385
+Singapore,1961,0.386
+Singapore,1962,0.386
+Singapore,1963,0.386
+Singapore,1964,0.386
+Singapore,1965,0.386
+Singapore,1966,0.387
+Singapore,1967,0.387
+Singapore,1968,0.387
+Singapore,1969,0.387
+Singapore,1970,0.387
+Singapore,1971,0.387
+Singapore,1972,0.388
+Singapore,1973,0.388
+Singapore,1974,0.388
+Singapore,1975,0.388
+Singapore,1976,0.388
+Singapore,1977,0.389
+Singapore,1978,0.389
+Singapore,1979,0.389
+Singapore,1980,0.389
+Singapore,1981,0.389
+Singapore,1982,0.389
+Singapore,1983,0.39
+Singapore,1984,0.39
+Singapore,1985,0.39
+Singapore,1986,0.39
+Singapore,1987,0.39
+Singapore,1988,0.391
+Singapore,1989,0.391
+Singapore,1990,0.391
+Singapore,1991,0.391
+Singapore,1992,0.391
+Singapore,1993,0.391
+Singapore,1994,0.392
+Singapore,1995,0.392
+Singapore,1996,0.392
+Singapore,1997,0.392
+Singapore,1998,0.392
+Singapore,1999,0.393
+Singapore,2000,0.393
+Singapore,2001,0.393
+Singapore,2002,0.393
+Singapore,2003,0.393
+Singapore,2004,0.393
+Singapore,2005,0.394
+Singapore,2006,0.394
+Singapore,2007,0.394
+Singapore,2008,0.394
+Singapore,2009,0.394
+Singapore,2010,0.395
+Singapore,2011,0.395
+Singapore,2012,0.395
+Singapore,2013,0.395
+Australia,1945,0.01
+Australia,1946,0.01
+Australia,1947,0.011
+Australia,1948,0.011
+Australia,1949,0.012
+Australia,1950,0.013
+Australia,1951,0.013
+Australia,1952,0.014
+Australia,1953,0.015
+Australia,1954,0.015
+Australia,1955,0.016
+Australia,1956,0.017
+Australia,1957,0.018
+Australia,1958,0.019
+Australia,1959,0.02
+Australia,1960,0.021
+Australia,1961,0.022
+Australia,1962,0.023
+Australia,1963,0.025
+Australia,1964,0.026
+Australia,1965,0.027
+Australia,1966,0.029
+Australia,1967,0.03
+Australia,1968,0.032
+Australia,1969,0.034
+Australia,1970,0.036
+Australia,1971,0.038
+Australia,1972,0.04
+Australia,1973,0.042
+Australia,1974,0.044
+Australia,1975,0.046
+Australia,1976,0.049
+Australia,1977,0.051
+Australia,1978,0.054
+Australia,1979,0.057
+Australia,1980,0.059
+Australia,1981,0.063
+Australia,1982,0.066
+Australia,1983,0.069
+Australia,1984,0.073
+Australia,1985,0.076
+Australia,1986,0.08
+Australia,1987,0.084
+Australia,1988,0.089
+Australia,1989,0.093
+Australia,1990,0.098
+Australia,1991,0.102
+Australia,1992,0.108
+Australia,1993,0.113
+Australia,1994,0.118
+Australia,1995,0.124
+Australia,1996,0.13
+Australia,1997,0.136
+Australia,1998,0.143
+Australia,1999,0.149
+Australia,2000,0.156
+Australia,2001,0.163
+Australia,2002,0.171
+Australia,2003,0.178
+Australia,2004,0.186
+Australia,2005,0.194
+Australia,2006,0.202
+Australia,2007,0.211
+Australia,2008,0.22
+Australia,2009,0.23
+Australia,2010,0.241
+Australia,2011,0.252
+Australia,2012,0.264
+Australia,2013,0.276
+New Zealand,1945,0.156
+New Zealand,1946,0.158
+New Zealand,1947,0.16
+New Zealand,1948,0.161
+New Zealand,1949,0.163
+New Zealand,1950,0.165
+New Zealand,1951,0.167
+New Zealand,1952,0.169
+New Zealand,1953,0.171
+New Zealand,1954,0.173
+New Zealand,1955,0.175
+New Zealand,1956,0.177
+New Zealand,1957,0.179
+New Zealand,1958,0.181
+New Zealand,1959,0.183
+New Zealand,1960,0.185
+New Zealand,1961,0.187
+New Zealand,1962,0.19
+New Zealand,1963,0.192
+New Zealand,1964,0.194
+New Zealand,1965,0.196
+New Zealand,1966,0.199
+New Zealand,1967,0.201
+New Zealand,1968,0.204
+New Zealand,1969,0.206
+New Zealand,1970,0.209
+New Zealand,1971,0.212
+New Zealand,1972,0.217
+New Zealand,1973,0.222
+New Zealand,1974,0.228
+New Zealand,1975,0.233
+New Zealand,1976,0.238
+New Zealand,1977,0.244
+New Zealand,1978,0.249
+New Zealand,1979,0.255
+New Zealand,1980,0.26
+New Zealand,1981,0.266
+New Zealand,1982,0.272
+New Zealand,1983,0.278
+New Zealand,1984,0.284
+New Zealand,1985,0.29
+New Zealand,1986,0.296
+New Zealand,1987,0.303
+New Zealand,1988,0.309
+New Zealand,1989,0.315
+New Zealand,1990,0.322
+New Zealand,1991,0.328
+New Zealand,1992,0.335
+New Zealand,1993,0.342
+New Zealand,1994,0.348
+New Zealand,1995,0.355
+New Zealand,1996,0.362
+New Zealand,1997,0.369
+New Zealand,1998,0.376
+New Zealand,1999,0.383
+New Zealand,2000,0.39
+New Zealand,2001,0.397
+New Zealand,2002,0.404
+New Zealand,2003,0.411
+New Zealand,2004,0.419
+New Zealand,2005,0.426
+New Zealand,2006,0.433
+New Zealand,2007,0.441
+New Zealand,2008,0.448
+New Zealand,2009,0.455
+New Zealand,2010,0.463
+New Zealand,2011,0.47
+New Zealand,2012,0.477
+New Zealand,2013,0.485

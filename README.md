@@ -1,1 +1,2 @@
-# Freedom-Index
+# final-project
+Final Data Analytics project using Machine Learning
