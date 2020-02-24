@@ -1,4 +1,4 @@
-# Freedon-Index
+# Freedom-Index
 Final Data Analytics project using Machine Learning, Python and Matplotlib
 
 ## Table of Contents
