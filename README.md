@@ -27,6 +27,6 @@ This project was created using Python, Sklearn, matplotlib and tableu
 ![Diversity Vs Freedom](https://i.postimg.cc/vZ7wSbVy/Regression2013.png)
 
 ## Conclusions
-The regrassion Results indicated a correlation of freedom score on GDP using the Least squares method at .64 adjusted R^2. However, Diversity on Freedom score only produced and R^2 of .05
+The regrassion Results indicated a correlation of freedom score on GDP using the Least squares method at .64 adjusted R^2. However, Diversity on Freedom score only produced an R^2 of .05
 
 This means that how free a country is can be a fairly good indication of GDP, In this case we must be aware of reverse causality. It could also mean that higher GDP countries can afford more freedoms.
