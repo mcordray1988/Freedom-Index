@@ -19,7 +19,7 @@ This project was created using Python, Sklearn, matplotlib and tableu
 
 ![Regular Vs Y_hat](https://i.postimg.cc/tTMKVgL3/Regvs-Y2019.png)
 
-### Multivariate Regression 2019
+### Multivariate Regression 201
 
 ![2019 Regression](https://i.postimg.cc/JhPVMxxd/Regression2019.png)
 
