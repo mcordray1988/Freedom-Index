@@ -7,10 +7,10 @@ Final Data Analytics project using Machine Learning, Python and Matplotlib
 - [Technology](#tech)
 - [Demo](#demo)
 
-## <a name="dec"></a> Descriptions
+## <a name="dec"></a> Description
 We looked at Freedom index data to find if there was any correlation between Freedom score and GDP using a multivariate regression.
 We also added ethnicity data to find out if the diversity of a country might effect governing styles. We believe this information to be important to the gernal public and informing policy decisions.
-## <a name="tech"></a>Technologys
+## <a name="tech"></a>Technology
 This project was created using Python, Sklearn, matplotlib and tableu
 ## <a name="demo"></a>Demo
 ### Residuals
